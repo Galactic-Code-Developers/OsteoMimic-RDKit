@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "OsteoMimic-RDKit: Molecular Simulation Framework for a Mussel-Inspired Bone Adhesive"
+authors:
+  - family-names: Valamontes
+    given-names: Antonios
+    affiliation: Kapodistrian Academy of Science
+version: 1.0.0
+date-released: 2026-01-01
+license: MIT
