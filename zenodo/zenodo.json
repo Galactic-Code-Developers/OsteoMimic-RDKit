@@ -1,0 +1,11 @@
+{
+  "title": "OsteoMimic-RDKit: Molecular Simulation Framework for a Mussel-Inspired Bone Adhesive",
+  "creators": [
+    {
+      "name": "Valamontes, Antonios",
+      "affiliation": "Kapodistrian Academy of Science"
+    }
+  ],
+  "description": "RDKit-based molecular simulations supporting the OsteoMimic biomimetic adhesive framework.",
+  "license": "MIT"
+}
